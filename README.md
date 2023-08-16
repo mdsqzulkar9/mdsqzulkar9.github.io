@@ -1,4 +1,4 @@
-# Data Scientist
+# Assistant Professor
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
