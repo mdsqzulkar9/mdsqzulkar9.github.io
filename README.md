@@ -1,6 +1,11 @@
 # Assistant Professor
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Department of Computer Science
+#### Tennessee Tech University
+#### Bruner Hall 428
+#### 110 University Drive
+#### Cookeville, TN 38501
+#### Email: mnine@tntech.edu
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
